@@ -1,16 +1,30 @@
 [
   {
-    "id": "0c0a8ad65ed4f50f",
+    "id": "*",
     "username": "rhyseukey",
     "password": "rhyseukeylifetime",
     "expiresAt": "3000-12-28",
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "id": "*",
+    "username": "rhyseukey",
+    "password": "rhyseukey1day",
+    "expiresAt": "2026-06-26",
+    "allowOffline": true
+  },
+  {
+    "id": "*",
+    "username": "rhyseukey",
+    "password": "rhyseukey3days",
+    "expiresAt": "2026-06-28",
+    "allowOffline": true
+  },
+  {
+    "id": "*",
+    "username": "rhyseukey",
+    "password": "rhyseukey7days",
+    "expiresAt": "2026-07-02",
+    "allowOffline": true
   }
 ]
