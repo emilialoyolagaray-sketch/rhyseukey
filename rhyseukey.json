@@ -1,7 +1,8 @@
 [
   {
+    "id": null,
     "username": "rhyseukey",
-    "password": "1dayfreetrial",
+    "password": "rhyseukey1day",
     "expiresAt": "2026-06-26",
     "allowOffline": true
   },
