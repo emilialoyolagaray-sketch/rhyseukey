@@ -21,10 +21,10 @@
     "allowOffline": true
   },
   {
-    "id": "*",
+    "id": "0655ac05bbb102ba",
     "username": "rhyseukey",
-    "password": "rhyseukey7days",
-    "expiresAt": "2026-07-02",
+    "password": "rhyseukey1day",
+    "expiresAt": "2026-06-26",
     "allowOffline": true
   }
 ]
